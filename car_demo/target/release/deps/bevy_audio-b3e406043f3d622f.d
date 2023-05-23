@@ -1,0 +1,11 @@
+C:\Users\andrew\OneDrive\Documents\capstone2\simulation_games\dynamics\car_demo\target\release\deps\bevy_audio-b3e406043f3d622f.rmeta: C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\lib.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_output.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_source.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\sinks.rs
+
+C:\Users\andrew\OneDrive\Documents\capstone2\simulation_games\dynamics\car_demo\target\release\deps\libbevy_audio-b3e406043f3d622f.rlib: C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\lib.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_output.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_source.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\sinks.rs
+
+C:\Users\andrew\OneDrive\Documents\capstone2\simulation_games\dynamics\car_demo\target\release\deps\bevy_audio-b3e406043f3d622f.d: C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\lib.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_output.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_source.rs C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\sinks.rs
+
+C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\lib.rs:
+C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio.rs:
+C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_output.rs:
+C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\audio_source.rs:
+C:\Users\andrew\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_audio-0.10.1\src\sinks.rs:
