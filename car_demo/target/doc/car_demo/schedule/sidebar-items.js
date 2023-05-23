@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PhysicsSet"],"fn":["create_schedule","physics_schedule"],"struct":["PhysicsSchedule"]};

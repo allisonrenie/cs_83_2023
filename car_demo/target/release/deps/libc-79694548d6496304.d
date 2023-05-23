@@ -1,0 +1,11 @@
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\libc-79694548d6496304.rmeta: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\liblibc-79694548d6496304.rlib: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\libc-79694548d6496304.d: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs:

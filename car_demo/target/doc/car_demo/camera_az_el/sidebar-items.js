@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["UpDirection"],"fn":["az_el_camera","az_el_rotation","az_el_translation","camera_builder","get_primary_window_size"],"struct":["AzElCamera"]};

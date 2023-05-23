@@ -1,0 +1,12 @@
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\slotmap-5c50e2207f45c710.rmeta: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\libslotmap-5c50e2207f45c710.rlib: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\slotmap-5c50e2207f45c710.d: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs
+
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\lib.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\basic.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\dense.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\hop.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\secondary.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\slotmap-1.0.6\src\sparse_secondary.rs:

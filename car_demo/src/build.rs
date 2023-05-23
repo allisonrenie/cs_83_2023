@@ -12,6 +12,7 @@ use crate::physics::{DrivenWheel, Steering, Suspension, TireContact, Engine};
 // {
 // }
 
+/// Builds the car model, utilizing other functions to create the chassis, suspensions, and wheels. 
 pub fn build_model(
     commands: &mut Commands,
     meshes: &mut ResMut<Assets<Mesh>>,
@@ -85,7 +86,7 @@ pub fn build_model(
     }
 }
 
-// build the chassis from a series of joints
+/// Builds the chassis from a series of joints.
 fn build_chassis(
     commands: &mut Commands,
     assets: &Res<AssetServer>,
@@ -173,7 +174,7 @@ fn build_chassis(
     (rx_id, rz_id)
 }
 
-// similar to build_suspension, but with an rz joint, and no mesh and no contact
+/// Builds steering system. Similar to build_suspension, but with an rz joint, and no mesh and no contact.
 fn build_steer(
     commands: &mut Commands,
     location: [f32; 3],
@@ -205,6 +206,7 @@ fn build_steer(
     steering_id
 }
 
+/// Builds suspension.
 fn build_suspension(
     commands: &mut Commands,
     location: [f32; 3],
@@ -242,6 +244,7 @@ fn build_suspension(
     susp_e.id()
 }
 
+/// Builds the wheels. 
 fn build_wheel(
     commands: &mut Commands,
     meshes: &mut ResMut<Assets<Mesh>>,
@@ -312,18 +315,20 @@ fn build_wheel(
     wheel_id
 }
 
+/// Adds a tire contact to an entity.
 fn add_tire_contact(entity: &mut EntityCommands) {
     let stiffness = 1000. * 9.81 / 4. / 0.005;
     let damping = 0.25 * 2. * (1000.0_f32 / 4. * stiffness).sqrt();
     entity.insert(TireContact::new(0.325, stiffness, damping, 0.2, 0.5));
 }
 
-/* basic add engine function that could be expanded and customized */
+/// Basic add engine function that adds an engine to an entity.
 fn add_engine(entity: &mut EntityCommands)
 {
     entity.insert(Engine::new(2000.0, 0.0, 0.0));
 }
 
+/// Adds car mesh. 
 fn add_car_mesh(commands: &mut Commands, chassis_joint_id: Entity, assets: &Res<AssetServer>) {
     let car_mesh = assets.load("AE86_BODY.glb#Scene0");
     let mut car_mesh_entity = commands.spawn(SceneBundle {
@@ -341,6 +346,7 @@ fn add_car_mesh(commands: &mut Commands, chassis_joint_id: Entity, assets: &Res<
     car_mesh_entity.set_parent(chassis_joint_id);
 }
 
+/// Adds wheel meshes.
 fn add_wheel_scene(
     mesh_name: String,
     commands: &mut Commands,

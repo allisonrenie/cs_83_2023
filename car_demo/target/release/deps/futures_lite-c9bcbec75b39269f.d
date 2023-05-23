@@ -1,0 +1,11 @@
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\futures_lite-c9bcbec75b39269f.rmeta: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\future.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\prelude.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\stream.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\io.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\libfutures_lite-c9bcbec75b39269f.rlib: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\future.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\prelude.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\stream.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\io.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\futures_lite-c9bcbec75b39269f.d: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\future.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\prelude.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\stream.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\io.rs
+
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\lib.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\future.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\prelude.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\stream.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.13.0\src\io.rs:

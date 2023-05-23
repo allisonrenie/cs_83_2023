@@ -1,0 +1,11 @@
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\concurrent_queue-5ccae2ff1385d4af.rmeta: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\bounded.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\single.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\unbounded.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\sync.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\libconcurrent_queue-5ccae2ff1385d4af.rlib: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\bounded.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\single.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\unbounded.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\sync.rs
+
+C:\Users\allis\Desktop\capstone rustdocs\cs_83_2023\car_demo\target\release\deps\concurrent_queue-5ccae2ff1385d4af.d: C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\lib.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\bounded.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\single.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\unbounded.rs C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\sync.rs
+
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\lib.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\bounded.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\single.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\unbounded.rs:
+C:\Users\allis\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.2.0\src\sync.rs:

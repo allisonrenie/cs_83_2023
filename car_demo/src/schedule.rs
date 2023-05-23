@@ -7,7 +7,7 @@ use bevy::prelude::*;
 use rbda_bevy::structure::{apply_external_forces, loop_1, loop_23};
 use rbda_bevy::system::integrate_joint_state;
 
-// Define the physics schedule which will be run in the fixed timestep loop
+/// Define the physics schedule which will be run in the fixed timestep loop
 #[derive(ScheduleLabel, Debug, Hash, PartialEq, Eq, Clone)]
 pub struct PhysicsSchedule;
 
@@ -15,7 +15,7 @@ pub fn physics_schedule(world: &mut World) {
     world.run_schedule(PhysicsSchedule);
 }
 
-// Define physics system sets, which are used to group systems together, and define the order in which they are run
+/// Define physics system sets, which are used to group systems together, and define the order in which they are run
 #[derive(Debug, Hash, PartialEq, Eq, Clone, SystemSet)]
 enum PhysicsSet {
     Initialize,
@@ -23,6 +23,8 @@ enum PhysicsSet {
     Finalize,
 }
 
+/// Creates physics schedule which defines the order in which various physics and driving
+/// systems are run. 
 pub fn create_schedule() -> Schedule {
     // create the physics schedule
     let mut phys_schedule = Schedule::new();

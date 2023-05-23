@@ -2,6 +2,7 @@ use std::f32::consts::PI;
 
 use bevy::prelude::*;
 
+/// Builds basic environment with lighting. 
 pub fn build_environment(
     commands: &mut Commands,
     meshes: &mut ResMut<Assets<Mesh>>,
