@@ -82,7 +82,7 @@ NOTE: Gamepad has only been tested with an Xbox style of controller. Results may
 
 # Documentation
 
-Documentation can be found in the files found in the car_demo folder as comments.   
+Documentation can be found in `car_demo/target/doc/car_demo`. We created documentation using rustdoc, which means that our documentation can be viewed as a webpage. Open `car_demo/target/doc/car_demo/index.html` with the browser of your choice to start at our documentation's homepage. You can navigate through all of our documentation from there.
 
 # Repository
 
