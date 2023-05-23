@@ -31,7 +31,8 @@
  */
 
 use std::f32::consts::PI;
-
+use crate::RPMText;
+use crate::SpeedText;
 // use bevy::prelude::*;
 use bevy::{
     input::gamepad::{
@@ -449,4 +450,50 @@ pub fn driven_wheel_system(mut joints: Query<(&mut Joint, &DrivenWheel, &mut Eng
         
     }
     
+}
+
+
+/*******************************************
+ * Function Name: rpm_updater
+ * Function Purpose: Updates the text which displays the current RPM.
+ * Developer: Cameron Vandenberg
+ * Date Last Updated: 2-1-23
+ * Prerequisites:
+ * Parameters:
+ * Output: the UI
+ * Sources: Bevy cheatbook
+*******************************************/
+pub fn rpm_updater(mut car_query: Query<&mut Engine>, mut query: Query<&mut Text, With<RPMText>>) {
+    for mut text in &mut query  {
+        for car in &mut car_query{
+            let value = car.rpms;
+            text.sections[1].value = format!("{value:.2}");
+        }
+    }
+}
+
+/*******************************************
+ * Function Name: speed_setup
+ * Function Purpose: Updates the text which displays the current Speed. 
+ * Developer: Cameron Vandenberg
+ * Date Last Updated: 2-1-23
+ * Prerequisites:
+ * Parameters:
+ * Output: the UI
+ * Sources: Bevy cheatbook
+*******************************************/
+pub fn speed_updater(mut joints: Query<(&mut Joint)>, mut query: Query<&mut Text, With<SpeedText>>) {
+    //for mut text in &mut query  {
+    //    for car in &mut car_query{
+    //        let value = car.qd.abs();
+    //        // Update the value of the second section
+    //        text.sections[1].value = format!("{value:.1}");
+    //    }
+    //}
+    for mut text in &mut query {
+        for mut joint in joints.iter_mut() {
+            let value = joint.qd.abs();
+            text.sections[1].value = format!("{value:.1}");
+        }
+    }
 }
