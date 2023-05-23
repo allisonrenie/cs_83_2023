@@ -42,8 +42,8 @@ Rust can be installed by following the instructions in their github repo: https:
 Clone this repo to where ever you want. Choose someplace that is easy to access.
 
 ### 3. Compile Dependencies
-Inside dynamics/car_demo/cargo.toml there are a few dependencies that need to be compiled in order for the project to work such as the Bevy game engine. 
-To compile these dependences, navagate to dynamics/car_demo and run the following:
+Inside driving_sim/cargo.toml there are a few dependencies that need to be compiled in order for the project to work such as the Bevy game engine. 
+To compile these dependences, navagate to driving_sim and run the following:
 ```
 cargo run --release
 ```
@@ -82,7 +82,7 @@ NOTE: Gamepad has only been tested with an Xbox style of controller. Results may
 
 # Documentation
 
-Documentation can be found in the files found in the car_demo folder as comments.   
+Documentation can be found via rust doc in  
 
 # Repository
 
